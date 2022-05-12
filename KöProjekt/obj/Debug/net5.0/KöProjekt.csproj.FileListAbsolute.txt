@@ -1,0 +1,16 @@
+C:\Users\morris.levin\Documents\KöProjekt\KöProjekt\obj\Debug\net5.0\KöProjekt.csproj.AssemblyReference.cache
+C:\Users\morris.levin\Documents\KöProjekt\KöProjekt\obj\Debug\net5.0\KöProjekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\morris.levin\Documents\KöProjekt\KöProjekt\obj\Debug\net5.0\KöProjekt.AssemblyInfoInputs.cache
+C:\Users\morris.levin\Documents\KöProjekt\KöProjekt\obj\Debug\net5.0\KöProjekt.AssemblyInfo.cs
+C:\Users\morris.levin\Documents\KöProjekt\KöProjekt\obj\Debug\net5.0\KöProjekt.csproj.CoreCompileInputs.cache
+C:\Users\morris.levin\Documents\KöProjekt\KöProjekt\bin\Debug\net5.0\KöProjekt.exe
+C:\Users\morris.levin\Documents\KöProjekt\KöProjekt\bin\Debug\net5.0\KöProjekt.deps.json
+C:\Users\morris.levin\Documents\KöProjekt\KöProjekt\bin\Debug\net5.0\KöProjekt.runtimeconfig.json
+C:\Users\morris.levin\Documents\KöProjekt\KöProjekt\bin\Debug\net5.0\KöProjekt.runtimeconfig.dev.json
+C:\Users\morris.levin\Documents\KöProjekt\KöProjekt\bin\Debug\net5.0\KöProjekt.dll
+C:\Users\morris.levin\Documents\KöProjekt\KöProjekt\bin\Debug\net5.0\ref\KöProjekt.dll
+C:\Users\morris.levin\Documents\KöProjekt\KöProjekt\bin\Debug\net5.0\KöProjekt.pdb
+C:\Users\morris.levin\Documents\KöProjekt\KöProjekt\obj\Debug\net5.0\KöProjekt.dll
+C:\Users\morris.levin\Documents\KöProjekt\KöProjekt\obj\Debug\net5.0\ref\KöProjekt.dll
+C:\Users\morris.levin\Documents\KöProjekt\KöProjekt\obj\Debug\net5.0\KöProjekt.pdb
+C:\Users\morris.levin\Documents\KöProjekt\KöProjekt\obj\Debug\net5.0\KöProjekt.genruntimeconfig.cache
